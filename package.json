@@ -1,0 +1,11 @@
+{
+  "name": "loadingbar",
+  "version": "1.0.0",
+  "description": "Basic loading bar",
+  "main": "loadbar.js",
+  "scripts": {
+    "test": "node loadbar.js"
+  },
+  "author": "Emil Gutkiewicz",
+  "license": "ISC"
+}
